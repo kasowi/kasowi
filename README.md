@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Kathy 🧚🏼‍♀️✨</h1>
-<h3 align="center">Software Engineer // M. Sc. Management & Entrepreneurship</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasowi&label=viewed%20x&color=d783ff&style=flat" alt="kasowi" /> </p>
+<h1 align="left">Hi, I'm Kathy 🧚🏼‍♀️✨</h1>
+<h3 align="left">Software Engineer // M. Sc. Management & Entrepreneurship</h3>
 
 - 🌱 I’m currently learning **Python** and **AWS**
 
