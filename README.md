@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, lateral entry to software development, traveling on a budget**
 
-- ⚡ Fun facts: I dance ballet and I usually guess the ending of a movie about 30% in
+- ⚡ Fun facts: I usually guess the ending of a movie about 30% in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
