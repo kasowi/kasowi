@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Kathy 🧚🏼‍♀️✨</h1>
 <h3 align="left">Software Engineer // M. Sc. Management & Entrepreneurship</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, lateral entry to software development, traveling on a budget**
 
-- ⚡ Fun facts: I usually guess the ending of a movie about 30% in
+- ⚡ Fun facts: I usually guess the ending of a movie about 20% in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
