@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Kathy 🧚🏼‍♀️✨</h1>
 <h3 align="left">Software Engineer // M. Sc. Management & Entrepreneurship</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **React, lateral entry to software development, traveling on a budget**
 
